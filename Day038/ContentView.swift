@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Project 7: iExpense
+//  Project 7: iExpense - Challenge
 //
 
 import SwiftUI
